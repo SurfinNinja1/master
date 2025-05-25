@@ -102,6 +102,7 @@
   tags:
   - Cooked
   - Meat
+  - Bacon
 
 # Bear meat
 
@@ -852,6 +853,7 @@
     state: produce
   tags:
   - Vegetable
+  - Chili
 
 - type: foodSequenceElement
   id: ChiliPepperSkewer
