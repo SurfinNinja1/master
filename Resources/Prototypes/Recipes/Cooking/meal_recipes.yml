@@ -2417,3 +2417,34 @@
     FoodBreadCottonSlice: 2
     FoodCheeseSlice: 1
     FoodButterSlice: 1
+
+- type: microwaveMealRecipe
+  id: RecipeCannoli
+  name: cannoli recipe
+  result: FoodBakedCannoli
+  time: 10
+  group: Dessert
+  solids:
+    FoodDoughFlat: 1
+    FoodSnackChocolateBar: 1
+  reagents:
+    Cream: 5
+
+- type: microwaveMealRecipe
+  id: RecipeCornedBeef
+  name: corned beef and cabbage recipe
+  result: FoodMealCornedbeef
+  time: 15
+  group: Savory
+  solids:
+    FoodMeat: 1
+    FoodCabbage: 1
+
+- type: microwaveMealRecipe
+  id: RecipePretzel
+  name: poppy pretzel recipe
+  result: FoodBakedPretzel
+  time: 10
+  solids:
+    FoodDoughSlice: 1
+    PoppySeeds: 1
