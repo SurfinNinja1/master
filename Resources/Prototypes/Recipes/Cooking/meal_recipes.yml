@@ -632,8 +632,9 @@
   time: 10
   group: Eggs
   solids:
-    FoodEgg: 1
     FoodCheeseSlice: 1
+  reagents:
+    Egg: 6
 
 - type: microwaveMealRecipe
   id: RecipeFriedEgg
@@ -641,9 +642,8 @@
   result: FoodMealFriedegg
   time: 10
   group: Eggs
-  solids:
-    FoodEgg: 1
   reagents:
+    Egg: 6
     TableSalt: 1
     Blackpepper: 1
 
