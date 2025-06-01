@@ -14,7 +14,6 @@
   - !type:IngredientsWithTags # 1 meat cutlet
     tags:
     - Cooked
-    - Cutlet
     - Meat
     count:
       min: 1
@@ -41,7 +40,6 @@
   - !type:IngredientsWithTags # 1 meat cutlet
     tags:
     - Cooked
-    - Cutlet
     - Meat
     count:
       min: 1
@@ -62,7 +60,6 @@
   - !type:IngredientsWithTags # 1 chicken meat
     tags:
     - Cooked
-    - Cutlet
     - Meat
     - Chicken
     count:
@@ -90,7 +87,6 @@
   - !type:IngredientsWithTags # 2 meat cutlets
     tags:
     - Cooked
-    - Cutlet
     - Meat
     count:
       min: 2
@@ -131,7 +127,6 @@
   - !type:IngredientsWithTags # 2 meat cutlets
     tags:
     - Cooked
-    - Cutlet
     - Meat
     count:
       min: 2
@@ -193,7 +188,6 @@
   - !type:IngredientsWithTags # 1 Meat Cutlet
     tags:
     - Cooked
-    - Cutlet
     - Meat
     count:
       min: 1
@@ -274,7 +268,6 @@
   - !type:IngredientsWithTags # 1 duck meat
     tags:
     - Cooked
-    - Cutlet
     - Meat
     - Duck
     count:

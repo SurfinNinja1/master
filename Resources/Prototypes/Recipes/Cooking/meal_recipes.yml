@@ -2444,7 +2444,10 @@
   id: RecipePretzel
   name: poppy pretzel recipe
   result: FoodBakedPretzel
+  group: Breads
   time: 10
   solids:
-    FoodDoughSlice: 1
+    FoodDoughRope: 1
     PoppySeeds: 1
+  reagents:
+    SodaWater: 5
